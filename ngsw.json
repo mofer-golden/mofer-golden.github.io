@@ -1,0 +1,101 @@
+{
+  "configVersion": 1,
+  "timestamp": 1716311991262,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/589.84c82a3adf81ffb9.js",
+        "/745.f8bd31d219858805.js",
+        "/835.f20f23af97a50fde.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.2adf86eb4770cbd4.js",
+        "/manifest.webmanifest",
+        "/polyfills.e1e0718d114e5c55.js",
+        "/runtime.9708a06128e40935.js",
+        "/scripts.2fce1fab3d867815.js",
+        "/styles.a12040a8f7415bba.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/logo-nilmar.png",
+        "/assets/logo.png",
+        "/assets/logo2.png",
+        "/assets/redarkia.png",
+        "/bootstrap-icons.35e09da2aecdd969.woff2",
+        "/bootstrap-icons.cb4c7c05f3292543.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/589.84c82a3adf81ffb9.js": "ce85a984fc805ccff07e2440f788f4462ec21df1",
+    "/745.f8bd31d219858805.js": "d84728cb4eceec84eabec080d5a8feee804017f2",
+    "/835.f20f23af97a50fde.js": "130de4604d348bcd0f0a0fab3f0260ec7f0acb78",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/logo-nilmar.png": "7602af131c57ece67de5a24d2b4deb17ad6dfffc",
+    "/assets/logo.png": "316125502dc960e98207563ee5c65638fe338647",
+    "/assets/logo2.png": "322812160194facab155a1fde152cd17ff17e625",
+    "/assets/redarkia.png": "332ecc04d8d0bac9e4e2a68e4d5a9c618f4515b2",
+    "/bootstrap-icons.35e09da2aecdd969.woff2": "17dad0776899ad1beadabd061c34e2a22b2cde74",
+    "/bootstrap-icons.cb4c7c05f3292543.woff": "75919c717ce5c5bc716bc51705c0cd0b60f4bffc",
+    "/favicon.ico": "23083b298126e19e57f6732770571e8da33ec054",
+    "/index.html": "2a382b42090ea732b4ce5cd3831d2ee964662eb1",
+    "/main.2adf86eb4770cbd4.js": "02bd5e10f3a171e42810e894f5b787a977b51971",
+    "/manifest.webmanifest": "756229715e150aad468c0b74755b63cdcbd16c2b",
+    "/polyfills.e1e0718d114e5c55.js": "b76629ce734450e20bba8199dfba2251b221ccee",
+    "/runtime.9708a06128e40935.js": "e751a318b9325817a410f5685eaf656c87787970",
+    "/scripts.2fce1fab3d867815.js": "f3c87f33bd72c2dd175ef9a3222b718330fd86cf",
+    "/styles.a12040a8f7415bba.css": "5b675d2b48c3cff0ec2800b66f353738530f155f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
